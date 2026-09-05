@@ -1,0 +1,7 @@
+{
+  "name": "Ad Number Management System",
+  "description": "Enterprise ad number registry with Google Sheets live sync, automatic revision staging, inventory inspection, batch operations, and audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
